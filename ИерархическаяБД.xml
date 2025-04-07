@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data_set>
+  <record number="1" category="Компьютеры" product_name="MB ASUS P5PL" specifications="32Гб оперативной памяти и 8 Гб видео" cost="165.000₽" />
+  <record number="2" category="Принтеры" product_name="Samsung ML1640" specifications="Лазерный" cost="18.000₽" />
+  <record number="3" category="МФУ" product_name="Canon PIXMA MP250" specifications="80 тыс. листов в месяц" cost="40.000₽" />
+  <record number="4" category="Портативный компьютер" product_name="Asus" specifications="Нетбук" cost="50.000₽" />
+  <record number="5" category="Портативный компьютер" product_name="Apple" specifications="Ноутбук" cost="200.000₽" />
+  <record number="6" category="Мониторы" product_name="Acer V193bb" specifications="19” (5ms, 300кд/м2)" cost="35.000₽" />
+  <record number="7" category="Системная плата" product_name="ASUS M2N68 PLUS" specifications="(SAM2+,nForce630,DDR2)" cost="15.000₽" />
+  <record number="8" category="Жесткие диски" product_name="SATA 2.5” Hitachi 512 Gb" specifications="5400rpm, 8mb cache" cost="5.000₽" />
+  <record number="9" category="Фотоаппараты" product_name="CANON Digital IX" specifications="14 MPx" cost="25.000₽" />
+  <record number="10" category="Жесткие диски" product_name="Seagate STJL1000400" specifications="2.5, USB 3.0, 5000 Мб/с" cost="6.000₽" />
+</data_set>
